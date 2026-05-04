@@ -81,13 +81,13 @@ python test_automation/test_automation.py
 
 ### Optional flags
 
-| Flag | Description | Default |
-|------|-------------|---------|
-| `--headless` | Run without opening browser window | False |
-| `--wait-ms` | Wait time (ms) for translation to load | 5000 |
-| `--retries` | Number of retries per test case | 8 |
-| `--retry-wait-ms` | Wait time (ms) between retries | 1000 |
-| `--save-every N` | Save Excel results every N rows | 0 |
+Flag
+
+headless -  Run without opening browser window 
+wait-ms -Wait time (ms) for translation to load
+retries - Number of retries per test case  8 
+retry-wait-ms - Wait time (ms) between retries  1000 
+save-every N Save Excel results every N rows 0 
 
 ### Example with flags
 
